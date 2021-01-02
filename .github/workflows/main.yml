@@ -1,4 +1,4 @@
-name : un flujo de trabajo para mi archivo Hello World 
+name : un flujo de trabajo para mi archivo Hello World
 en : push
 jobs:
   build:
